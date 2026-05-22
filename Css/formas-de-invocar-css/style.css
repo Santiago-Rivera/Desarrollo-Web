@@ -1,0 +1,6 @@
+@import url('../introduction-css/otro-style.css'); /*Es mala practica porque son bloqueantes a la hora de que el navegador cargue la página*/
+
+h1 {
+    color: orangered;
+    background-color: white;
+}
